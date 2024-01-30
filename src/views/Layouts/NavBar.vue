@@ -3,7 +3,7 @@ import { RouterLink } from 'vue-router'
 </script>
 
 <template>
-    <nav class="navbar navbar-expand-lg navbar-dark shadow" style="background: #7f00ff;">
+    <nav class="navbar navbar-expand-lg navbar-dark shadow" style="background: #9933CC;">
         <div class="container">
             <RouterLink :to="{ name: 'home' }" class="navbar-brand">ไอทีตราด</RouterLink>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"

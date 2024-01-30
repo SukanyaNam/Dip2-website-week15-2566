@@ -21,7 +21,7 @@ const notify = () => {
   <div class="container my-5">
     <div class="card shadow" style="width: 20rem;">
       <div class="card-header p-0">
-        <img src="c:\Users\Bowon\Downloads\Современная плоская концепция дизайна программистов на работе Концепция разработки программного обеспечения с персонажами может использовать для веб бизнес анализа целевой страницы веб сайта шаблон плоский векторн.jfif" class="card-img-top"
+        <img src="https://i.pinimg.com/564x/3a/17/0e/3a170e3088f8a515c4b301e66e12c53f.jpg" class="card-img-top"
           alt="img">
       </div>
       <div class="card-body">
